@@ -1,0 +1,139 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #1e1e1e;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 1rem;
+  background: #2e2e2e;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.search-bar {
+  padding: 1rem;
+  background-color: #2a2a2a;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.search-bar input,
+.search-bar select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.game-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.game-item {
+  padding: 1rem;
+  border-bottom: 1px solid #444;
+  cursor: pointer;
+}
+
+.game-item:hover {
+  background-color: #333;
+}
+
+.credits-container {
+  padding: 1rem 2rem;
+}
+
+.credit-header {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  color: #87cefa;
+  border-bottom: 1px solid #87cefa;
+}
+
+.credit-line {
+  padding: 0.5rem 0;
+}
+
+.alt-line {
+  background-color: #292929;
+}
+/* ...existing styles remain unchanged... */
+
+.search-bar {
+  padding: 1rem 2rem;
+  background-color: #2a2a2a;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-bar input[type="text"] {
+  padding: 0.5rem 1rem;
+  flex-grow: 1;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  background-color: #1c1c1c;
+  color: white;
+}
+
+.search-bar select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: #1c1c1c;
+  color: white;
+  border-radius: 4px;
+  border: 1px solid #444;
+  min-width: 180px;
+}
+a {
+  color: inherit;         /* Use current text color */
+  text-decoration: none;  /* Remove underline */
+}
+
+a:visited {
+  color: inherit;         /* Remove purple */
+}
+
+a:hover {
+  color: #87cefa;              /* Optional: add hover color */
+}
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin: 1rem 0;
+}
+.tab {
+  background: #333;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  cursor: pointer;
+}
+.tab.active {
+  background: #87cefa;
+  color: #000;
+  font-weight: bold;
+}
+.name {
+  color: #87cefa;
+  cursor:help;
+}
+.tooltip {
+  position: absolute;
+  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  border-radius: 5px;
+  font-size: 0.85rem;
+  z-index: 999;
+  pointer-events: none;
+}
