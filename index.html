@@ -2,47 +2,26 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Minesweeper PvP 💣</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Game Credits Explorer</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <a href="index.html"><header>Retro Game Credits Explorer</header></a>
 
-  <h1>Minesweeper PvP 💣</h1>
-
-  <!-- SETTINGS -->
-  <div id="settings">
-    <label>Rows <input id="rows" type="number" value="10"></label>
-    <label>Cols <input id="cols" type="number" value="10"></label>
-    <label>Bombs <input id="bombs" type="number" value="10"></label>
-
-    <button id="startBtn">Start Game</button>
-    <button id="darkModeBtn">🌓 Dark Mode</button>
+  <div class="search-bar">
+    <input type="text" id="search" placeholder="Search for a game..." />
+    <select id="sortSelect">
+      <option value="title">Sort by Title</option>
+      <option value="releaseDate">Sort by Release Date</option>
+    </select>
+    <select id="consoleSelect">
+      <!-- Console options will be filled dynamically -->
+    </select>
   </div>
 
-  <!-- LOBBY -->
-  <h2>Lobby</h2>
-  <div id="lobby">
-    <input id="lobbyCode" placeholder="Lobby Code">
-    <button id="hostBtn">Host</button>
-    <button id="joinBtn">Join</button>
-  </div>
+  <div id="app"></div>
 
-  <!-- BOARDS -->
-  <div id="boards">
-    <div>
-      <h3>You</h3>
-      <div id="player-board" class="game-container"></div>
-    </div>
-    <div>
-      <h3>Opponent</h3>
-      <div id="opponent-board" class="game-container spectator"></div>
-    </div>
-  </div>
-
-  <p id="status"></p>
-
-  <!-- SCRIPT (MODULE, LOADS LAST)  -->
-  <script type="module" src="script.js"></script>
-
+  <script src="testData.js"></script>
+  <script src="test.js"></script>
 </body>
 </html>
