@@ -2311,5 +2311,538 @@ Chief Architect: Marc Blank \\
     ]
   },
 
+{
+    id: "31",
+    title: "Leather Goddesses of Phobos",
+    releases: [
+      {
+        console: "DOS",
+        releaseDate: "1986-06-01",
+credits: `
+Design: Steve Eric Meretzky \\
+Comic Book Art: Richard Howell \\
+3-D Process (Comic Book): Ray Zone \\
+\\Acknowledgments
+Primary Testers for Leather Goddesses of Phobos: Tomas Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, Matt Hillman \\
+Package (and its components) designed by: Carl Genatassio, Elizabeth Langosy \\
+Artwork for the 3-D comic (including the cover): Richard Howell \\
+3-D Processing by: Ray Zone \\
+Tirelessly learned the ins and outs of scratch-n-sniff while tracking down an affordable scratch-n-sniff printer: Angela Crews \\
+Artwork for the Leather Goddesses of Phobos poster: Ken Barr \\
+Thanks for the idea of including a 3-D comic: Brian Moriarty \\
+Thanks for implementing the "boss key" feature in the IBM version: Ed Black \\
+Thanks for timely technical assistance: Dave Lebling \\
+Thanks for a host of things: Jon Palace \\
+`
+      },
+      {
+        console: "Amiga",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Amstrad CPC",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Amstrad PCW",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Apple II",
+        releaseDate: "1986-06-01",
+credits: `
+By: Steve Eric Meretzky \\
+`
+      },
+      {
+        console: "Atari 8-bit",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Atari ST",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Commodore 128",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Commodore 64",
+        releaseDate: "1986-06-01",
+credits: `
+Interactive Fiction Comedy by: Steve Eric Meretzky \\
+`
+      },
+      {
+        console: "Macintosh",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "TI-99/4A",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+    ]
+  },
+
+//for some reason 32 - 41 are just not there idfk why
+
+{
+    id: "42",
+    title: "Wing Commander Academy",
+    releases: [
+      {
+        console: "DOS",
+        releaseDate: "1993-06-01",
+credits: `
+Programming: Jeff Everett, Brent Allen Thale \\
+Graphics / Artwork: Whitney Ayres, Glen Johnson \\
+Music: John Tipton, Kirk Winterrowd \\
+Sound: Marc Schaefgen \\
+Manual Design: Colin Dodson \\
+Cover Art: Chris Douglas, Jake Rodgers \\
+Packaging: Jennifer Davis \\
+Documentation: Al Carnley, David Ladyman, Kirsten Vaughan \\
+Producer: Thomas Blom, Dallas Snell \\
+Quality Assurance: Marshall Andrews, Charles Angel, Russell Byrd, Jerrold Harrington, Andrew Hoffmann, Bill LaCoste, Starr Long, Rik Packham, Scott Shelton, Perry Stokes \\
+`
+      },
+      {
+        console: "Windows",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+    ]
+  },
+
+
+{
+    id: "43",
+    title: "The Cycles: International Grand Prix Racing",
+    releases: [
+      {
+        console: "Amiga",
+        releaseDate: "1989-06-01",
+credits: `
+Created by: Distinctive Software Inc. - Vancouver B.C. \\
+Design: Brad Gour, Donald A. Mattrick \\
+Art: Mike S. Smith, John Boechler, Tony Lee \\
+Programming: Bruce Dawson, Joey Della-Savia (credited as Joe Dellasavia) \\
+Sound: Kris Hatlelid \\
+Music: Kris Hatlelid \\
+`
+      },
+      {
+        console: "Amstrad CPC",
+        releaseDate: "1990-06-01",
+credits: `
+Written by: Alan Jardine \\
+Graphics by: Tahir Rashid \\
+`
+      },
+      {
+        console: "Commodore 64",
+        releaseDate: "1991-06-01",
+credits: `
+Designed by: Brad Gour, Donald A. Mattrick \\
+Programmed by: Michael Kiernan, Frank Barchard \\
+Graphics by: Mike S. Smith \\
+Music by: Kris Hatlelid \\
+Q.A.: Ivan Allan \\
+`
+      },
+      {
+        console: "DOS",
+        releaseDate: "1989-06-01",
+credits: `
+Design: Brad Gour, Donald A. Mattrick \\
+Programming: Rick Friesen, Brad Gour \\
+Graphics / Artwork: John Boechler, Mike S. Smith \\
+Sound: Kris Hatlelid \\
+Producer: Pam Levins \\
+Playtesting: Cyndi Kirkpatrick \\
+`
+      },
+      {
+        console: "Macintosh",
+        releaseDate: "1990-06-01",
+credits: `
+Created by: Distinctive Software \\
+Designed by: Donald A. Mattrick (credited as Don Mattrick), Brad Gour \\
+Programming: Brad Gour, Bruce Dawson, Randy Dillon \\
+Mac Version: Esteban Ahn \\
+Artists: John Boechler, Mike S. Smith (credited as Mike Smith), Theresa Henry, Jackie Marie Ritchie (credited as Jackie Ritchie) \\
+Sound: Kris Hatlelid (credited as Kris Hatelid), Randy Dillon \\
+Producer: Pam Levins \\
+Associate Producer: Keith Orr \\
+`
+      },
+      {
+        console: "ZX Spectrum",
+        releaseDate: "1990-06-01",
+credits: `
+Coded by: Alan Jardine \\
+Graphics by: Tahir Rashid \\
+`
+      },
+    ]
+  },
+
+
+{
+    id: "44",
+    title: "Airball",
+    releases: [
+      {
+        console: "DOS",
+        releaseDate: "1987-06-01",
+credits: `
+Design: Ed Scio \\
+Programming: Timothy M. Purves \\
+Graphics / Artwork: Pete Lyon \\
+Music: Paul Shields \\
+Undetermined: Peter Scott \\
+`
+      },
+      {
+        console: "Amiga",
+        releaseDate: "1989-06-01",
+credits: `
+Design: Ed Scio \\
+Program: Ed Scio \\
+Graphics: Pete Lyon \\
+Music: Paul Shields \\
+Level Design: Peter Scott \\
+`
+      },
+      {
+        console: "Apple IIgs",
+        releaseDate: "1989-06-01",
+credits: `
+\\Credits
+Program: Ed Scio \\
+Graphics: Pete Lyon \\
+Music: Paul Shields \\
+Rooms: Peter Scott \\
+Apple IIGS version: Jason Harper \\
+`
+      },
+      {
+        console: "Atari 8-bit",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Atari ST",
+        releaseDate: "1987-06-01",
+credits: `
+Program: Ed Scio \\
+Graphics: Pete Lyon \\
+Music: Paul Shields \\
+Rooms: Peter Scott \\
+`
+      },
+      {
+        console: "Dragon 32/64",
+        releaseDate: "1987-06-01",
+credits: `
+Program by: Ed Scio \\
+Design by: Ed Scio \\
+Graphics by: Ed Scio \\
+Music composed by: Paul Shields \\
+`
+      },
+      {
+        console: "TRS-80 CoCo",
+        releaseDate: "1987-06-01",
+credits: `
+\\Airball
+Program by: Ed Scio \\
+Design by: Ed Scio \\
+Graphics by: Ed Scio \\
+Music Composed by: Paul Shields \\
+`
+      },
+      {
+        console: "Windows",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+    ]
+  },
+
+{
+    id: "45",
+    title: "Rocket Ranger",
+    releases: [
+      {
+        console: "DOS",
+        releaseDate: "1988-06-01",
+credits: `
+Original Concept: Robert Jacob \\
+Design: Kellyn Beeck \\
+Programming: Peter A. Oliphant \\
+Interpreter / Development System: Michael A. Knox, Peter A. Oliphant, John Reego \\
+Graphics / Artwork: Jeffrey Hilbers, Rob Landeros, Steve Quinn, Elizabeth Scafati, Curt Toumanian, Russell Truelove \\
+Art Director: Curt Toumanian \\
+Producer: Phyllis Jacob, Robert Jacob, Larry Weissenborn, John Cutter \\
+Cinematography by: Peter Kaminski, Tom McWilliams \\
+Original Score Composed by: Bob Lindstrom \\
+`
+      },
+      {
+        console: "Android",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Amiga",
+        releaseDate: "1988-06-01",
+credits: `
+Computography: Peter Kaminski, Tom McWilliams \\
+Additional Computography: Randy Platt \\
+Animation System: Peter Kaminski \\
+Storyline: Robert Jacob \\
+Art Direction: Rob Landeros \\
+Chief Graphic Artist: Jeffrey Hilbers \\
+Additional Art: Jeff Godfrey, Elizabeth Scafati, Steve Quinn, Kara Blohm \\
+Stuntmen: Patrick Cook, Kirt Nystrom, Russell Truelove \\
+Original Score: Bob Lindstrom \\
+Audio Effects: Bill Williams, Larry Garner \\
+Voices: Randy Platt, Rob Landeros, Melanie Cutter \\
+Executive Producers: Phyllis Jacob, Robert Jacob \\
+Producer: John Cutter \\
+Designer: Kellyn Beeck \\
+Special thanks to: Patrick Cook, L. Allen McPheeters, Eric Pobirs, Wayne Brockman, Russell Truelove, Kirt Nystrom, Larry Weissenborn, Monica Mead, Norma Leith, Annette Childs \\
+`
+      },
+      {
+        console: "Apple IIgs",
+        releaseDate: "1989-06-01",
+credits: `
+Computography: Ed Magnin \\
+Art Conversion: Russell Truelove \\
+Producer: Patrick Cook \\
+Audio Effects: Ed Magnin \\
+Audio Conversion: Jim Simmons \\
+Stuntmen: Matt Kazanowski, L. Allen McPheeters \\
+Storyline: Robert Jacob \\
+Original Design: John Cutter, Kellyn Beeck \\
+Original Computography: Tom McWilliams, Peter Kaminski \\
+Original Art: Jeffrey Hilbers \\
+Original Score: Bob Lindstrom \\
+Executive Producers: Phyllis Jacob, Robert Jacob \\
+`
+      },
+      {
+        console: "Atari ST",
+        releaseDate: "1989-06-01",
+credits: `
+Computography: Rick Oliver \\
+Art Conversion: Russell Truelove \\
+Producer: Patrick Cook \\
+Audio Effects: William Robinson \\
+Audio Conversion: Jim Simmons \\
+Stuntmen: Matt Kazanowski, L. Allen McPheeters \\
+Storyline: Robert Jacob \\
+Original Design: John Cutter, Kellyn Beeck \\
+Original Computography: Tom McWilliams, Peter Kaminski \\
+Original Art: Jeffrey Hilbers \\
+Original Score: Bob Lindstrom \\
+Executive Producers: Phyllis Jacob, Robert Jacob \\
+`
+      },
+      {
+        console: "Commodore 64",
+        releaseDate: "1988-06-01",
+credits: `
+\\Credits (Front cover)
+Executive Producers: Phyllis Jacob, Robert Jacob \\
+Produced by: John Cutter \\
+Directed by: Kellyn Beeck \\
+Computography by: Peter Kaminski, Tom McWilliams \\
+Art Direction by: Rob Landeros \\
+Original Score Composed by: Bob Lindstrom \\
+\\Credits (In-game)
+Computography: Daniel Lucas \\
+Additional Computography: Marty Franz, Harald Seeley \\
+Art Director: Curt Toumanian \\
+Additional Graphics: Steve Quinn \\
+Original Score: Bob Lindstrom \\
+Orchestration: Jim Simmons \\
+Voices: Melanie Cutter, Rob Landeros \\
+Stuntmen: Patrick Cook, Russell Truelove \\
+Original Concept: Robert Jacob (credited as Bob Jacob) \\
+Executive Producers: Phyllis Jacob, Robert Jacob (credited as Bob Jacob) \\
+Producer and Director: John Cutter \\
+Designer: Kellyn Beeck \\
+Copyright 1988: Cinemaware Corp. \\
+`
+      },
+      {
+        console: "FM Towns",
+        releaseDate: "1990-06-01",
+credits: `
+\\Rocket Ranger
+Computography: Peter Kaminski, Tom McWilliams \\
+Additional Computography: Randy Platt \\
+Animation System: Peter Kaminski \\
+Storyline: Robert Jacob \\
+Art Direction: Rob Landeros \\
+Chief Graphic Artist: Jeffrey Hilbers \\
+Additional Art: Jeff Godfrey, Elizabeth Scafati (credited as Betsy Scafati), Steve Quinn \\
+Stuntmen: Patrick Cook, Kirt Nystrom, Russell Truelove \\
+Original Score: Bob Lindstrom \\
+Audio Effects: Bill Williams, Larry Garner \\
+Voices: Randy Platt, Rob Landeros, Melanie Cutter \\
+Executive Producers: Phyllis Jacob, Robert Jacob (credited as Robert Iacob) \\
+Producer: John Cutter \\
+Designer: Kellyn Beeck (credited as Kellyn Beck) \\
+© 1988: Cinemaware Corporation \\
+© 1990: Pony Canyon Inc. \\
+`
+      },
+      {
+        console: "iPad",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "iPhone",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+
+      {
+        console: "NES",
+        releaseDate: "1990-06-01",
+credits: `
+\\As Rocket Ranger worked into the night, so did...
+Programmer: Nigel Spencer \\
+Artwork: Russel Comte \\
+Director: Patrick Cook \\
+Morale: Ronald Kurtz \\
+Discipline: Gregg Barnett \\
+Sound: Tania Smith (Tania) \\
+`
+      },
+      {
+        console: "Windows",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+    ]
+  },
+
+{
+    id: "46",
+    title: "Bop'N Wrestle",
+    releases: [
+      {
+        console: "Commodore 64",
+        releaseDate: "1985-06-01",
+credits: `
+Game Concept: Gregg Barnett \\
+Design: Gregg Barnett \\
+Programmer: Gregg Barnett, Bruce Bayley, Cameron Duffy, Damian Watharow \\
+Additional Programming: Nigel Spencer, Andrew Pavlumanolakos \\
+Graphics: Greg Holland \\
+Music: Neil Brennan \\
+`
+      },
+      {
+        console: "Amstrad CPC",
+        releaseDate: "1986-06-01",
+credits: `
+\\Rock'n'Wrestle
+Published by: Melbourne House \\
+Game Concept and Design: Gregg Barnett, Damian Watharow \\
+Amstrad Design: Damian Watharow, Cameron Duffy, Sean Watharow \\
+Amstrad Programming: Damian Watharow, Cameron Duffy, Sean Watharow \\
+Graphics: Greg Holland, Frank Oldham \\
+`
+      },
+      {
+        console: "Apple II",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Atari 8-bit",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "DOS",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "Windows",
+        releaseDate: "",
+credits: `
+\\CREDITS NEEDED
+`
+      },
+      {
+        console: "ZX Spectrum",
+        releaseDate: "1986-06-01",
+credits: `
+By: Steven Taylor, Frank Oldham, Ben Watharow \\
+`
+      },
+    ]
+  },
+
+
+
+
+ 
+
+  
+  
   
 ];
